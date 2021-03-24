@@ -43,6 +43,9 @@ position:static;
 width:auto;
 height:auto;
 }
+.homeCarousel img {
+    width: 100%;
+}
 .subcategories {
     border-bottom: 1px solid #ececec;
     padding: 0 0 30px;

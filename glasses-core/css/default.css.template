@@ -15,6 +15,7 @@ body {
 .antiCls { 
     visibility: hidden; 
 }
+#mobSearch{display:none !important}
 @media (max-width: 767px) {
 	.antiCls-xs { 
 		visibility: hidden; 
